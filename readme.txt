@@ -1,1 +1,1 @@
-# java+mysql+swing
+echo "#java+mysql+swing"
